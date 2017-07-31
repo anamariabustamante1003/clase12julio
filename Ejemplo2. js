@@ -1,0 +1,8 @@
+alert("Hola mundo");
+if(confirm("todo ray")){
+	// si se cumple la condición
+	alert("Genial, me alegra que vallas bien, bueno manos a la obra");
+}else{
+	//si no se cumple la condicion 
+	alert("ok");
+}
